@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Furkhon
 - 👀 I’m interested in Robotics , politic and economis
 - 🌱 I’m currently learning java , Python , SQL , etc.
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can contact me email furkhon.nurdi9@gmail.com
 
 <!---
